@@ -1,4 +1,11 @@
-## Hi there 👋
+<!-- 타이틀 소개 -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=102C57&height=300&section=header&text=WELCOME&fontSize=90&&fontColor=fff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GongHanna&layout=compact)
+https://github.com/GongHanna/hit-counter
+<!-- 스킬 소개 -->
+##SKIIS
+
 
 <!--
 **GongHanna/GongHanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
